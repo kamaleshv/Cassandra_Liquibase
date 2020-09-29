@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<License xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:simba-com:SimbaLicenseSchema">
+  <Info version="1">
+    <ProductSKU>2257</ProductSKU>
+    <Product>Simba Cassandra JDBC Driver</Product>
+    <Platform>Java</Platform>
+    <ProductVersion>2</ProductVersion>
+    <LicenseType>Evaluation</LicenseType>
+    <LicenseCount>1</LicenseCount>
+    <CustomerID>kamalesh.vanaparthi@mphasis.com</CustomerID>
+    <Timestamp>2020-08-31T08:02:26.8850834-07:00</Timestamp>
+    <Expiry>2020-09-20</Expiry>
+  </Info>
+  <Key>EeggAJAABQADAC0AxQC+AGLZokkYC6ykjs6k3tvDCFtUFpVuS5uCrEwfxwW9+6dT7dJeg8TptUNEU3bBzCNC/1hrTjBkAgFtTx+qDTLXmK+xe2fgLsNK9S76+dr///qaC/L4jPyNg9zJayH6IyuLcB9h6yVFnbsU+mK3eeAxtPT+jrDLGLxQnJ/c/xCHakSH2VgfV+VV4Wh+vh+8vCWbxwu6uJmZVMrzbT0h1q9wJf3F+vAuxiRoSqBEL6UgXPwBSU30q2kwoStBRSpTqDVH++ZQcQ2cUj6VfeQkrbxMVgkVOtmHfyiP66BogUnPxPBwEO9o33CMw4KQfIjgt/ajoD9GXSJaAbob</Key>
+</License>
